@@ -1,0 +1,12 @@
+wood
+stone
+coal
+dyes
+wine
+iron
+gold
+diamond
+polishedstone
+refinediron
+refinedgold
+refineddiamond
